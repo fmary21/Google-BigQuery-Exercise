@@ -1,7 +1,3 @@
-Absolutely, Fadzai! Here's a clean, well-structured README file tailored for the BrightLearn BigQuery practical exercise. It’s designed to guide learners through the objectives, dataset, and SQL concepts covered:
-
----
-
 # 📘 README: BrightLearn BigQuery Practical Exercise
 
 ## 🧠 Overview
